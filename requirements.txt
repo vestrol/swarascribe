@@ -1,3 +1,4 @@
+setuptools
 streamlit
 joblib
 opencv-python
